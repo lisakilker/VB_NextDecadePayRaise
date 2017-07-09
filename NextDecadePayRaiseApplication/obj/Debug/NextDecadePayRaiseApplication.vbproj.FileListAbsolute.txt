@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\bin\Debug\NextDecadePayRaiseApplication.exe.config
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\bin\Debug\NextDecadePayRaiseApplication.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\bin\Debug\NextDecadePayRaiseApplication.pdb
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\bin\Debug\NextDecadePayRaiseApplication.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\obj\Debug\NextDecadePayRaiseApplication.Resources.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\obj\Debug\NextDecadePayRaiseApplication.frmNextDecadePayRaise.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\obj\Debug\NextDecadePayRaiseApplication.vbproj.GenerateResource.Cache
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\obj\Debug\NextDecadePayRaiseApplication.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\obj\Debug\NextDecadePayRaiseApplication.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\NextDecadePayRaiseApplication\NextDecadePayRaiseApplication\obj\Debug\NextDecadePayRaiseApplication.pdb
